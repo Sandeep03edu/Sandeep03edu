@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sandeep03edu)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sandeep03edu)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working as a Mentee @Microsoft Engage'22
